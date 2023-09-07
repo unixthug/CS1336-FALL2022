@@ -1,0 +1,30 @@
+Starting Balance : 400.5
+Amount deposited : $75.50 Updated balance : $476.00
+Amount deposited : $12.24 Updated balance : $488.24
+Amount deposited : $78.25 Updated balance : $566.49
+Amount withdrawn : $100.00 Updated balance : $466.49
+Amount withdrawn : $20.00 Updated balance : $446.49
+Amount withdrawn : $12.21 Updated balance : $434.28
+Amount withdrawn : $376.30 Updated balance : $57.98
+Amount deposited : $78.00 Updated balance : $135.98
+Amount deposited : $100.50 Updated balance : $236.48
+Amount withdrawn : $500.75 Updated balance : $-264.27
+Amount withdrawn : $230.50 Updated balance : $-494.77
+Amount deposited : $222.00 Updated balance : $-272.77
+Amount deposited : $12.00 Updated balance : $-260.77
+Amount withdrawn : $45.00 Updated balance : $-305.77
+Amount deposited : $9.99 Updated balance : $-295.78
+Amount deposited : $12.00 Updated balance : $-283.78
+Amount withdrawn : $208.00 Updated balance : $-491.78
+Amount deposited : $100.50 Updated balance : $-391.28
+Amount withdrawn : $330.25 Updated balance : $-721.53
+Amount deposited : $250.00 Updated balance : $-471.53
+Amount deposited : $73.50 Updated balance : $-398.03
+Amount deposited : $200.00 Updated balance : $-198.03
+Amount withdrawn : $130.74 Updated balance : $-328.77
+Amount deposited : $144.34 Updated balance : $-184.43
+Amount withdrawn : $103.55 Updated balance : $-287.98
+Amount deposited : $400.20 Updated balance : $112.22
+
+There were 26 total transactions this month
+The ending balance is : $ 112.22
